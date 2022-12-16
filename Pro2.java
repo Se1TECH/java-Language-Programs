@@ -1,4 +1,4 @@
-//Question: Write a Program in Java to Perform Arithmetic Operation.
+//Question:  Write a Program in Java to Perform Arithmetic Operations.
 import java.util.*;
 class Pro2{
     public static void main(String[] args)
