@@ -1,4 +1,4 @@
-//Question: Write Program in java to Print any String Value Enter by User.
+//Question: Write a Program in java to Print any String Value entered by the User.
 import java.util.*;
 class Pro1{
     public static void main(String[] args)
