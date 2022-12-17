@@ -1,4 +1,4 @@
-//Question: Write java Program to Find ASCCI Value of a Character Enter by User
+//Question: Write java Program to Find ASCCI Value of a Character Enter by User.
 import java.util.*;
 class Pro3{
     public static void main(String[] args){
