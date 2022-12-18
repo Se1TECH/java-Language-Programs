@@ -1,4 +1,4 @@
-//Question: Write a Program in JAVA to Check User Entered Number is Odd or Even.
+//Question: Write a Program in JAVA to Check User Entered Number is Odd or Even. 
 import java.util.*;
 class Pro5{
     public static void main(String[] args){
