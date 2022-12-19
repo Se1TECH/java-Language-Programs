@@ -1,4 +1,4 @@
-//Question: Write Program in Java to Check User Entered Year is Leap or Not.
+//Question: Write Program in Java to Check User Entered Year is Leap or Not. 
 import java.util.*;
 
 class Pro8{
