@@ -1,4 +1,4 @@
-//Question : Write a Program in Java to find the Maximum Number from Three Numbers.
+//Question : Write a Program in Java to find the Maximum Number from Three Numbers. 
 import java.util.*;
 
 class Pro7{
