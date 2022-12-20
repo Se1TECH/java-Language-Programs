@@ -1,4 +1,4 @@
-//Question: Write a Program in Java to Print Table of User Entered Number.
+//Question: Write a Program in Java to Print Table of User Entered Number. 
 import java.util.*;
 
 class Pro10{
