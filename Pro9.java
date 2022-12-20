@@ -1,4 +1,4 @@
-//Question: Write Progarm in Java to Print Sum of Natural Numbers
+//Question: Write Progarm in Java to Print Sum of Natural Numbers.
 import java.util.*;
 
 class Pro9{
