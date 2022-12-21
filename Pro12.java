@@ -1,4 +1,4 @@
-//Question: Write a Program in Java to Compute the Sum of the Digits of an Integer.
+//Question: Write a Program in Java to Compute the Sum of the Digits of an Integer. 
 import java.util.*;
 class Pro12{
     public static void main(String[] args){
