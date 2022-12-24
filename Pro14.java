@@ -1,4 +1,4 @@
-// Question: Write a Java Program To find LCM of Two Numbers.
+// Question: Write a Java Program To find LCM of Two Numbers. 
 import java.util.*;
 class Pro14{
     static int GCD(int u, int v){
