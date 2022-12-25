@@ -1,4 +1,4 @@
-// Question: Write a program in java to find largest number from the Array
+// Question: Write a program in java to find largest number from the Array.
 import java.util.*;
 class Pro16{
     public static void main(String[] args){
