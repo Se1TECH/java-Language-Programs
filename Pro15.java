@@ -1,4 +1,4 @@
-// Question: Write a Program in Java to Check String is Palindrome or not.
+// Question: Write a Program in Java to Check String is Palindrome or not. 
 import java.util.*;
 class Pro15{
 
