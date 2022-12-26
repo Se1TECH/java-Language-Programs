@@ -1,5 +1,5 @@
 //Question: Write a Java program to check whether number is automorphic or Not.
-//-> Automorphic number means whose square ends with the same number it self(like 25 & 76 are automorphic number).
+//-> Automorphic number means whose square ends with the same number it self(like 25 & 76 are automorphic number). 
 
 import java.util.*;
 
