@@ -1,4 +1,4 @@
-// Question: Write a Program in Java to check positive or negative number
+// Question: Write a Program in Java to check positive or negative number.
 import java.util.*;
 class Pro17{
 
