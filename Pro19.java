@@ -1,4 +1,4 @@
-// Quetions: Write a Progarm in Java to check whether number is peterson or not
+// Quetions: Write a Progarm in Java to check whether number is peterson or not.
 // -->A number is said to be a Peterson number if the sum of factorials of each digit 
 // of the number is equal to the number itself. 
 // Example: Input : n = 145 Output = Yes Explanation: 145 = 5! + 4!
