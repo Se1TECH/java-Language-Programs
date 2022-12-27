@@ -1,5 +1,5 @@
 
-// Question: Write a Program in Java to check whether number is Tech or not.
+// Question: Write a Program in Java to check whether number is Tech or not. 
 import java.util.*;
 
 class Pro20 {
