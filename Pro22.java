@@ -1,4 +1,4 @@
-// Question: Write a program in Java to print duplicate elements in java.
+// Question: Write a program in Java to print duplicate elements in java. 
 import java.util.*;
 class Pro22{
     public static void main(String[] args){
