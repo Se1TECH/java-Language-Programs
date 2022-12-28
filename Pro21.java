@@ -1,4 +1,4 @@
-// Question: Write a program in Java to copy all elements of one array to another array.
+// Question: Write a program in Java to copy all elements of one array to another array. 
 import java.util.*;
 class Pro21{
     public static void main(String[] args) {
