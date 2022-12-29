@@ -1,5 +1,5 @@
 
-// Write a Program in Java to print the elements of an array present on even position.
+// Write a Program in Java to print the elements of an array present on even position. 
 import java.util.*;
 
 class Pro23 {
