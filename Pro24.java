@@ -1,4 +1,4 @@
-// Question: Write Program in Java to print the sum of all the items of the array. 
+// Question: Write Program in Java to print the sum of all the items of the array.
 import java.util.*;
 class Pro24{
     public static void main(String[] args) {
