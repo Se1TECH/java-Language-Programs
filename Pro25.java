@@ -1,4 +1,4 @@
-// Question: Write program in java to print the elements of an array in reverse order.
+// Question: Write program in java to print the elements of an array in reverse order. 
 import java.util.*;
 class Pro25{
     public static void main(String[] args) {
