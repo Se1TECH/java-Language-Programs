@@ -1,4 +1,4 @@
-// Question: write a Java Program to sort the elements of an array in ascending order. 
+// Question: write a Java Program to sort the elements of an array in ascending order.  
 import java.util.*;
 class Pro26{
     public static void main(String[] args) {
