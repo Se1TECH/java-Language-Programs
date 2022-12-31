@@ -1,4 +1,4 @@
-// Question: Write a Java Program to count the total number of characters in a string.
+// Question: Write a Java Program to count the total number of characters in a string. 
 import java.util.*;
 class Pro28{
     public static void main(String[] args) {
