@@ -1,4 +1,4 @@
-// Quetion: Write a Java Program to count the total number of vowels and consonants in a string.
+// Quetion: Write a Java Program to count the total number of vowels and consonants in a string. 
 import java.util.*;
 class Pro29{
     public static void main(String[] args) {
