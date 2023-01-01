@@ -1,4 +1,4 @@
-// Question: Write a Java Program to replace lower-case characters with upper-case and vice-versa.
+// Question: Write a Java Program to replace lower-case characters with upper-case and vice-versa. 
 import java.util.Scanner;
 
 import java.util.*;
