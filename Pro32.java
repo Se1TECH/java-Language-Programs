@@ -1,4 +1,4 @@
-// Question: Write a Java Program to print employee class details.
+// Question: Write a Java Program to print employee class details.  
 import java.util.*;
 class Employee{
     int employeeId;
