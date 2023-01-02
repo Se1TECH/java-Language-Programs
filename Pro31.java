@@ -1,4 +1,4 @@
-// Question : Write a java Program to print string in revesrse.
+// Question : Write a java Program to print string in revesrse. 
 import java.util.*;
 
 class Pro31{
