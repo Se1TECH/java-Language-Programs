@@ -1,4 +1,4 @@
-//Question: Wite a java program to print student details using abstract class.
+//Question: Wite a java program to print student details using abstract class. 
 import java.util.*;
 abstract class  StudentDetails{
     abstract void getStudentDetails();
