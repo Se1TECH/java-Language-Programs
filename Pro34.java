@@ -1,4 +1,4 @@
-// Question: Write a java program to Count all vowels in a string.
+// Question: Write a java program to Count all vowels in a string. 
 import java.util.*;
 class Pro34{
     public static void main(String[] args) {
