@@ -1,4 +1,4 @@
-// Question: Write a java program to draw a pattern.
+// Question: Write a java program to draw a pattern. 
 import java.util.*;
 class Pro36{
     public static void main(String[] args) {
