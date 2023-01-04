@@ -1,4 +1,4 @@
-// Question: Write a java program to Calculate the average value of array elements.
+// Question: Write a java program to Calculate the average value of array elements. 
 import java.util.*;
 class Pro35{
     public static void main(String[] args) {
