@@ -1,4 +1,4 @@
-// Question: Write a java program to draw pattern.
+// Question: Write a java program to draw pattern. 
 import java.util.Scanner;
 
 import java.util.*;
